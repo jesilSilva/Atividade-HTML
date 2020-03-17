@@ -1,0 +1,29 @@
+/*CSS - Estilização da questão1*/
+
+
+p{
+	border-left: 20px solid green;
+	border-right: 20px solid red;
+	width: 60%;
+	height: 400px;
+	font-size: 12px;
+	letter-spacing: 3em;
+	word-spacing: 4ex;
+	text-align: center;
+	font: verdana;
+	text-indent: 25px;
+	
+
+
+}
+
+p::first-letter {
+  font-size: 36px;
+  color: blue;
+  text-decoration: overline;
+}
+
+p::first-line {
+ text-decoration: underline;
+ text-transform: capitalize;
+}

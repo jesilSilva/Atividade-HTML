@@ -1,0 +1,57 @@
+/*CSS - Estilização da questão 2*/
+
+
+a{
+	text-decoration: none;
+}
+
+#a{
+
+	text-decoration: overline;
+	
+}
+#a:hover {
+	text-decoration: line-through; 
+	
+}
+#a:visited {
+	text-decoration: underline;
+	
+}
+	
+#b {
+	color: orange;
+}
+
+#b:hover{
+	color: green;
+	text-decoration: underline;
+}
+
+#c {
+	border: 10px solid blue;
+	background: black;
+	color: white;
+}
+
+#c:hover{
+	border: 10px dotted black;
+	color: black;
+	background: white;
+}
+
+#d{
+	color: red;
+}
+
+#d:visited { 
+ font-style: italic;
+ color:orange;
+      
+ } 
+
+ #d:hover{
+
+ 	text-decoration: underline;
+	background: yellow;
+}

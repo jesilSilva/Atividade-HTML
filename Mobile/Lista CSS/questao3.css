@@ -1,0 +1,14 @@
+/*CSS - Estilização da questão3*/
+
+#figura{
+    background-image:url(../img/figura1.png);   
+    width: 26%;
+	height: 600px;
+
+}
+
+#figura:hover{
+    background-image:url(../img/figura2.png);
+    width: 26%;
+	height: 600px;
+}

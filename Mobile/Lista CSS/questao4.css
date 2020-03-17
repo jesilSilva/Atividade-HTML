@@ -1,0 +1,102 @@
+/*CSS - Estilização da questão1*/
+
+
+#todo{
+	width: 70%;
+	height: 500px;
+	
+	margin: 0 auto;
+}
+
+#superior{
+	height: 15%;
+	width: 100%;
+	border: 2px solid #1E90FF	;
+	
+
+}
+
+#superior ul li { 
+	display: inline;
+ }
+
+
+#superior ul li a {
+	position: relative;
+    
+    display: inline-block;
+    
+    text-decoration: none;
+    float: left;
+}
+    
+#globo{
+	padding: 0px 80px 5px 10px;
+	color: #1E90FF;
+	font-weight: 800;
+	font-size: 2em;
+	font-family: "arial", Times, serif;
+	line-height: 25px
+}
+
+
+#noticia{
+padding: 8px 70px 1px 10px;
+	
+	color: red;
+	font-size: 1.5em;
+	font-family: "arial", Times, serif;
+	font-weight: bold;
+}
+
+
+#esportes{
+padding: 8px 80px 1px 10px;
+	
+	color: #228B22;
+	font-size: 1.5em;
+	font-family: "arial", Times, serif;
+	font-weight: bold;
+}
+
+#noticia:hover{
+	text-decoration: overline;
+	
+
+}
+
+#entretenimento{
+padding: 8px 70px 1px 10px;
+	
+	color: orange;
+	font-size: 1.5em;
+	font-family: "arial", Times, serif;
+	font-weight: bold;
+}
+
+
+#videos{
+padding: 8px 70px 1px 10px;
+	
+	color: blue;
+	font-size: 1.5em;
+	font-family: "arial", Times, serif;
+	font-weight: bold;
+}
+
+#entretenimento:hover{
+text-decoration: overline;
+}
+#videos:hover{
+text-decoration: overline;
+}
+
+#esportes:hover{
+text-decoration: overline;
+}
+
+
+
+
+
+

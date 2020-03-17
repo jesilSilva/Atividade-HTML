@@ -1,0 +1,30 @@
+ /*CSS - Estilização da questão6*/
+
+h2 {
+
+    color: red;
+
+}
+
+#img{
+
+    width: 20%;
+    height: 10%;
+    border-image-outset: 10px red;
+
+}
+
+
+
+div h2:hover {
+
+    text-decoration: underline red;
+
+}
+
+div .img:hover {
+
+    border-image-outset: 10px red;
+
+
+}

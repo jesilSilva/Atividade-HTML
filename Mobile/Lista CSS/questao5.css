@@ -1,0 +1,117 @@
+ /*CSS - Estilização da questão5*/
+
+
+
+ #item1{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed red;
+	list-style-type: none;
+	font-family: "verdana", Times, serif;
+	font-size: 12px;
+
+ }
+  #item2{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed red;
+	list-style-type: none;
+font-family: "verdana", Times, serif;
+font-size: 12px;
+
+
+ }
+
+ #item3{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed red;
+	list-style-type: none;
+		font-family: "verdana", Times, serif;
+		font-size: 12px;
+
+
+ }
+
+ #item4{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed red;
+	list-style-type: none;
+		font-family: "verdana", Times, serif;
+		font-size: 12px;
+
+
+ }
+  #item5{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed red;
+	list-style-type: none;
+		font-family: "verdana", Times, serif;
+		font-size: 12px;
+
+
+ }
+
+
+ #item1:hover{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed green;
+	list-style-type: none;
+
+ }
+
+ #item2:hover{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed green;
+	list-style-type: none;
+
+ }
+
+ #item3:hover{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed green;
+	list-style-type: none;
+
+ }
+
+ #item4:hover{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed green;
+	list-style-type: none;
+
+ }
+
+ #item5:hover{ 
+	
+    height: 20%;
+	width: 100%;
+	color: red;
+	border-bottom:  1px dashed green;
+	list-style-type: none;
+
+ }
+
