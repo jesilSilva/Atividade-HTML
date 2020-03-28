@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<script language="JavaScript" src="questao8.js"></script>
+</head>
+<body>
+
+
+	Nome:<input id="nome" type="text" name="nome"><br>
+	Pessoa: <br>
+	Física:<input id="pessoaFisica" type="radio" name="pessoa" onclick="habilitarCampo()" ><br>
+	<div id="camposEspeciaisPessoaFisica" style="display: none;">
+		CPF:<input id="cpf" type="text" name="cpf"><br>
+	Data de nascimento:<input id="dataNascimento" type="text" name="dataNascimento" onkeypress="tecla()"><br>
+	</div>
+	Jurídica:<input id="pessoa" type="radio" name="pessoa" onclick="habilitarCampo()"><br>
+	<div id="camposEspeciaisPessoaJuridica" style="display: none;">
+		CNPJ:<input id="cnpj" type="text" name="cnpj">
+		
+	</div>
+	Endereço:<input id="endereco" type="text" name="endereco"><br>
+	CEP:<input id="cep" type="text" name="cep" onkeypress="tecla()"><br>
+	Telefone:<input id="telefone" type="text" name="telefone"><br>
+	Email:<input id="email" type="text" name="email"><br>
+
+</body>
+
+
+</html>
