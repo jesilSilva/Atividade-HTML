@@ -21,7 +21,7 @@
     flex-wrap: wrap;
 	 }
 	 
-	 @media screen and (max-width: 720px) {
+	 @media screen and (max-width: 400px) {
 		 .teste2, #teste {
 			 width:100%;
 			 float:left;
